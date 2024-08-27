@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "chinesefoods:item/pita_bread_soaked_in_lamb_soup"
+  }
+}
