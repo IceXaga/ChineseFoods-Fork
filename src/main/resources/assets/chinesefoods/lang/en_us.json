@@ -1,13 +1,20 @@
 {
-  "item.chinesefoods.bean_juice": "Bean Juice",
+  "item.chinesefoods.douzhir": "Douzhir",
   "item.chinesefoods.fired_ring": "Fired Ring",
   "item.chinesefoods.salted_vegetable": "Salted Vegetable",
+  "item.chinesefoods.mung_bean_soup": "Mung Bean Soup",
+  "item.chinesefoods.flower_cake": "Flower Cake",
+  "item.chinesefoods.bao_zi": "Bao Zi",
+  "item.chinesefoods.rougamo": "Rougamo",
+  "item.chinesefoods.pita_bread_soaked_in_lamb_soup": "Pita Bread Soaked in Lamb Soup",
 
   "item.chinesefoods.mung_beans": "Mung Beans",
   "item.chinesefoods.rutabaga": "Rutabaga",
 
   "item.chinesefoods.mungbean_seeds": "Mung Bean Seeds",
   "item.chinesefoods.rutabaga_seeds": "Rutabaga Seeds",
+
+  "item.chinesefoods.a_bowl_of_water": "A Bowl of Water",
 
   "itemgroup.chinesefoods": "Chinese Foods"
 }

@@ -3,6 +3,7 @@ package cn.shidux.chinesefoods;
 import cn.shidux.chinesefoods.datagen.*;
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
+import net.minecraft.registry.RegistryBuilder;
 
 public class ChineseFoodsDataGenerator implements DataGeneratorEntrypoint {
 	@Override
@@ -14,5 +15,10 @@ public class ChineseFoodsDataGenerator implements DataGeneratorEntrypoint {
 		pack.addProvider(ModModelProvider::new);
 		pack.addProvider(ModLootTableProvider::new);
 		pack.addProvider(ModRecipeProvider::new);
+	}
+
+	@Override
+	public void buildRegistry(RegistryBuilder registryBuilder) {
+
 	}
 }

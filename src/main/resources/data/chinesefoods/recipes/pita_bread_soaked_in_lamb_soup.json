@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    " M ",
+    " W ",
+    " A "
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:mutton"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "A": {
+      "item": "chinesefoods:a_bowl_of_water"
+    }
+  },
+  "result": {
+    "item": "chinesefoods:pita_bread_soaked_in_lamb_soup",
+    "count": 1
+  }
+}

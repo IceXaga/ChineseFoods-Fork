@@ -11,12 +11,7 @@ base {
 }
 
 repositories {
-//	maven {
-//		url 'https://maven.aliyun.com/nexus/content/groups/public'
-//	}
-//	maven {
-//		url 'https://repository.hanbings.io/proxy'
-//	}
+
 }
 
 fabricApi {
@@ -31,7 +26,7 @@ dependencies {
 
 	// Fabric API. This is technically optional, but you probably want it anyway.
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
-	
+
 }
 
 processResources {

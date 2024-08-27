@@ -1,13 +1,20 @@
 {
-  "item.chinesefoods.bean_juice": "豆汁",
-  "item.chinesefoods.fired_ring": "焦圈",
-  "item.chinesefoods.salted_vegetable": "咸菜丝",
+  "item.chinesefoods.douzhir": "豆汁儿",
+  "item.chinesefoods.fired_ring": "焦圈儿",
+  "item.chinesefoods.salted_vegetable": "咸菜丝儿",
+  "item.chinesefoods.mung_bean_soup": "绿豆汤",
+  "item.chinesefoods.flower_cake": "鲜花饼",
+  "item.chinesefoods.bao_zi": "包子",
+  "item.chinesefoods.rougamo": "肉夹馍",
+  "item.chinesefoods.pita_bread_soaked_in_lamb_soup": "羊肉泡馍",
 
   "item.chinesefoods.mung_beans": "绿豆",
   "item.chinesefoods.rutabaga": "芥菜疙瘩",
 
   "item.chinesefoods.mungbean_seeds": "绿豆种子",
   "item.chinesefoods.rutabaga_seeds": "芥菜疙瘩种子",
+
+  "item.chinesefoods.a_bowl_of_water": "一碗水",
 
   "itemgroup.chinesefoods": "中华美食"
 }

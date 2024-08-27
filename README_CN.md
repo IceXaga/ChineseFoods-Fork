@@ -1,17 +1,17 @@
-# Chinese Foods
+# 中华美食
 
-### Languages
+### 语言
 
 [简体中文](https://github.com/alumr/ChineseFoods/blob/master/README_CN.md)|[English](https://github.com/alumr/ChineseFoods/blob/master/README.md)
 
-### Overview
+### 概述
 
-This mod adds Chinese food to Minecraft.
+这个模组为 Minecraft 添加了中国的美食。
 
-### Download
+### 下载链接
 
 [Modrinth](https://modrinth.com/mod/chinesefoods)
 
-### License
+### 开源许可协议
 
-This project uses the [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) license.
+本项目使用[GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)协议。

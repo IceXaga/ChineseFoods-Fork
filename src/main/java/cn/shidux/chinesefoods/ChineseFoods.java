@@ -4,7 +4,6 @@ import cn.shidux.chinesefoods.block.ModBlocks;
 import cn.shidux.chinesefoods.item.ModItemGroups;
 import cn.shidux.chinesefoods.item.ModItems;
 import net.fabricmc.api.ModInitializer;
-
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

@@ -10,11 +10,11 @@
       "item": "chinesefoods:mung_beans"
     },
     "B": {
-      "item": "minecraft:bowl"
+      "item": "chinesefoods:a_bowl_of_water"
     }
   },
   "result": {
-    "item": "chinesefoods:bean_juice",
+    "item": "chinesefoods:mung_bean_soup",
     "count": 1
   }
 }
