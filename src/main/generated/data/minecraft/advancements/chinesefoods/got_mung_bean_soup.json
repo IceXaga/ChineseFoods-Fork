@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "got_mung_bean_soup": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "chinesefoods:mung_bean_soup"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "description": "绿豆汤到底是绿色的还是红色的？",
+    "hidden": true,
+    "icon": {
+      "item": "chinesefoods:mung_bean_soup"
+    },
+    "title": "世界未解之谜"
+  },
+  "requirements": [
+    [
+      "got_mung_bean_soup"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

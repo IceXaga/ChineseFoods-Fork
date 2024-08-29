@@ -10,6 +10,7 @@ public class ChineseFoodsDataGenerator implements DataGeneratorEntrypoint {
 	public void onInitializeDataGenerator(FabricDataGenerator fabricDataGenerator) {
 		FabricDataGenerator.Pack pack = fabricDataGenerator.createPack();
 
+		pack.addProvider(AdvancementsProvider::new);
 		pack.addProvider(ModBlockTagProvider::new);
 		pack.addProvider(ModItemTagProvider::new);
 		pack.addProvider(ModModelProvider::new);

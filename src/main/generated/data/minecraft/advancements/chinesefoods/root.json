@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "got_douzhir": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "chinesefoods:douzhir"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "description": "豆汁儿得配着焦圈儿吃！",
+    "hidden": true,
+    "icon": {
+      "item": "chinesefoods:douzhir"
+    },
+    "title": "这叫一个地道"
+  },
+  "requirements": [
+    [
+      "got_douzhir"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
