@@ -5,6 +5,7 @@ import net.minecraft.entity.effect.StatusEffects;
 import net.minecraft.item.FoodComponent;
 
 public class ModFoodComponents {
+    //食用后恢复6点饥饿值，0.25的饱和度修正值。
     public static final FoodComponent DOUZHIR = new FoodComponent.Builder()
             .hunger(6)
             .saturationModifier(0.25f)

@@ -9,7 +9,7 @@ import net.minecraft.item.*;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
-
+//这个类包含了所有由中国传统食品模组定义的食物和材料的物品注册。
 public class ModItems {
     public static final Item DOUZHIR = registerItem("douzhir", new Item(new FabricItemSettings()
             .food(ModFoodComponents.DOUZHIR)));
