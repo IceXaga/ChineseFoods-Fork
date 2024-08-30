@@ -1,5 +1,8 @@
 <div align="center"><img herf="/ChinsesFood.png"></img>
 <div><p><a href="./README_CN.md">简体中文</a> | <a href="README.md">English</a></p></div>
+<img src="https://img.shields.io/github/stars/alumr/ChineseFoods.svg?style=social">
+<img src="https://img.shields.io/badge/0.1.0-yellow?label=Release">
+<img src="https://img.shields.io/badge/License-GNU General Public%203.0-red.svg"
 </div>
 
 ### 概述
