@@ -17,5 +17,7 @@ public class ChineseFoods implements ModInitializer {
 
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+		
+		NanchangMixFlour.registerItem();
 	}
 }
