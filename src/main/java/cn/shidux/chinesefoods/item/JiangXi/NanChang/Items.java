@@ -13,8 +13,8 @@ public class NanchangMixFlourItem extends Item {
     }
 
     // 注册物品
-    public static final Item NANCHANG_CHAO_FEN = new NanchangChaoFenItem();
+    public static final Item NANCHANGMIXFLOUR = new NanchangChaoFenItem();
     public static void registerItem() {
-        Registry.register(Registry.ITEM, new Identifier(ChineseFoods.MOD_ID, "nanchang_chao_fen"), NANCHANG_CHAO_FEN);
+        Registry.register(Registry.ITEM, new Identifier(ChineseFoods.MOD_ID, "nanchangmixflour"), NANCHANG_MIXFLOUR);
     }
 }
